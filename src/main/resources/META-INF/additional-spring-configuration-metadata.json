@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "github.client.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'github.client.client-id'"
+  },
+  {
+    "name": "github.client.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'github.client.client-secret'"
+  },
+  {
+    "name": "github.client.access-token-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'github.client.access-token-uri'"
+  },
+  {
+    "name": "github.client.user-authorization-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'github.client.user-authorization-uri'"
+  },
+  {
+    "name": "github.client.client-authentication-scheme",
+    "type": "java.lang.String",
+    "description": "A description for 'github.client.client-authentication-scheme'"
+  }
+]}
